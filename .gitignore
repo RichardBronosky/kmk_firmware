@@ -126,3 +126,6 @@ kmk/release_info.py
 kmk/release_info.mpy
 *.mpy
 .vscode
+
+# Fanbois
+.DS_Store
